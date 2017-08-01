@@ -1,0 +1,12 @@
+utf8-unicode-point-string
+=========================
+
+Represent a string as a UTF8 unicode point string.
+  'A' → 'U+41'
+  'hi ルーカスǃ' → 'U+686920e383abe383bce382abe382b9c783'
+
+This repository is a collection of implementations in various
+programming languages. Nothing fancy here! No dragons.
+
+cheers,
+prokls
